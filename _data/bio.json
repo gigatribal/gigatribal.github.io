@@ -3,8 +3,8 @@
     "name": "William Siu",
     "label": "Student",
     "picture": "https:/gigatribal.github.io/images/225137_1623181151022_5464043_n.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-389-4637",
+    "email": "wsiu4@hawaii.edu",
+    "phone": "",
     "website": "https://gigatribal.github.io",
     "summary": "I am a student majoring in Computer Science at the University of Hawaii of Manoa.",
     "location": {
@@ -22,8 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": ""
+        "url": "https://www.linkedin.com/in/william-siu-0a1284124?trk=nav_responsive_tab_profile"
       },
       {
         "network": "twitter",
