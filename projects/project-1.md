@@ -8,6 +8,7 @@ date: 2016
 labels:
   - App development
   - Appery.io
+  - Data Management
 summary: A project I did for ICS 321 in Spring 2016.
 ---
 
