@@ -20,4 +20,4 @@ Has details of how to contact us, where we are, and a list of our menu item and 
 
 <hr>
 
-Link to website : Pah Ke's Chinese Restaurant <a href="http://pahke.com/index.html">
+Link to website : Pah Ke's Chinese Restaurant website <a href="http://pahke.com/index.html"> here</a>.
