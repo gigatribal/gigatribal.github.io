@@ -12,7 +12,7 @@ labels:
 summary: A project I did for ICS 321 in Spring 2016.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/app login and register screen.png">
   <img class="ui image" src="../images/check in screen.png">
   <img class="ui image" src="../images/hawaii electeds screen.png">
