@@ -4,10 +4,9 @@ type: project
 image: images/Pah Ke's homepage.png
 title: Pah Ke's Website
 permalink: projects/Pah Ke's Website
-date: 2014
+date: 2015
 labels:
-  - Lisp
-  - GitHub
+  - c-panel
 summary: A website used for Pah Ke's Chinese Restaurant in Kaneohe near Windward Mall.
 ---
 
@@ -21,4 +20,4 @@ Has details of how to contact us, where we are, and a list of our menu item and 
 
 <hr>
 
-Link to website : http://pahke.com/index.html
+Link to website : [Pah Ke's Chinese Restaurant] (http://pahke.com/index.html)
