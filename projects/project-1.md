@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/app login and register screen.png
-title: Geocache Legislator check-in App
-permalink: projects/micromouse
+title: Geocache Legislator Check-in App
+permalink: projects/Geocache Legislator Check-in App
 date: 2016
 labels:
   - App development
