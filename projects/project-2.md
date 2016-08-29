@@ -12,8 +12,8 @@ summary: A program to add, modify, print, and delete names and some info from IC
 
 <img class="ui large right floated rounded image" src="../images/ICS212 part 1.png">
 <img class="ui large right floated rounded image" src="../images/ICS212 part 2.png">
-<img class="ui large left floated rounded image" src="../images/ICS212 part 3.png">
-<img class="ui large left middle floated rounded image" src="../images/ICS212 part 4.png">
+<img class="ui large right floated rounded image" src="../images/ICS212 part 3.png">
+<img class="ui large right floated rounded image" src="../images/ICS212 part 4.png">
 
 
 A project assignment to use our knowledge of C to create a simple phonebook where a non programmer could easily follow the directions and use this.
