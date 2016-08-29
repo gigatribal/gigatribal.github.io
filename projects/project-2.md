@@ -11,8 +11,8 @@ summary: A program to add, modify, print, and delete names and some info from IC
 ---
 
 <img class="ui large left floated rounded image" src="../images/ICS212 part 1.png">
-<img class="ui large center floated rounded image" src="../images/ICS212 part 2.png">
-<img class="ui large middle floated rounded image" src="../images/ICS212 part 3.png">
+<img class="ui large right floated rounded image" src="../images/ICS212 part 2.png">
+<img class="ui large left floated rounded image" src="../images/ICS212 part 3.png">
 <img class="ui large right floated rounded image" src="../images/ICS212 part 4.png">
 
 
