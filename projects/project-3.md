@@ -17,10 +17,7 @@ Pah Ke's Chinese Restaurant use to be co-owned with my dad and his brother. The 
 
 <hr>
 
-<pre>
 Has details of how to contact us, where we are, and a list of our menu item and prices and other details. The website is slowly progressing due to other responsibilities as a student. Since my parents dont know how to do this kind of thing, they looked to me for help to have a wesbite available for the business. 
-
-</pre>
 
 <hr>
 
