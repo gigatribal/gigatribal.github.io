@@ -16,10 +16,6 @@ summary: A program to add, modify, print, and delete names and some info from IC
 <img class="ui large right floated rounded image" src="../images/ICS212 part 4.png">
 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+A project assignment to use our knowledge of C to create a simple phonebook where a non programmer could easily follow the directions and use this.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You are able to add a person and add some given details about the person. With just the name, you can modify, print, or delete the person along with the info. There is also the option to print every name added or delete everything. Duplicate names are possible, and printing or deleting specific names that have more than 1 of them results in them all being printed or deleted.
