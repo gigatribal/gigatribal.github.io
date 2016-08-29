@@ -10,9 +10,9 @@ labels:
 summary: A program to add, modify, print, and delete names and some info from ICS 212 in Spring 2015
 ---
 
-<img class="ui large left floated rounded image" src="../images/ICS212 part 1.png">
+<img class="ui large right floated rounded image" src="../images/ICS212 part 1.png">
 <img class="ui large right floated rounded image" src="../images/ICS212 part 2.png">
-<img class="ui large left floated rounded image" src="../images/ICS212 part 3.png">
+<img class="ui large right floated rounded image" src="../images/ICS212 part 3.png">
 <img class="ui large right floated rounded image" src="../images/ICS212 part 4.png">
 
 
