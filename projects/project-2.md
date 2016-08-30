@@ -10,10 +10,10 @@ labels:
 summary: A program to add, modify, print, and delete names and some info from ICS 212 in Spring 2015
 ---
 
-<img class="ui large right floated rounded image" src="../images/ICS212 part 1.png">
-<img class="ui large right floated rounded image" src="../images/ICS212 part 2.png">
-<img class="ui large right floated rounded image" src="../images/ICS212 part 3.png">
-<img class="ui large right floated rounded image" src="../images/ICS212 part 4.png">
+<img class="ui image" src="../images/ICS212 part 1.png">
+<img class="ui image" src="../images/ICS212 part 2.png">
+<img class="ui image" src="../images/ICS212 part 3.png">
+<img class="ui image" src="../images/ICS212 part 4.png">
 
 
 A project assignment to use our knowledge of C to create a simple phonebook where a non programmer could easily follow the directions and use this.
