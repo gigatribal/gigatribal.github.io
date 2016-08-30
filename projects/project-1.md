@@ -12,11 +12,9 @@ labels:
 summary: A project I did for ICS 321 in Spring 2016.
 ---
 
-<div class="ui large rounded images">
   <img class="ui image" src="../images/app login and register screen.png">
   <img class="ui image" src="../images/check in screen.png">
   <img class="ui image" src="../images/hawaii electeds screen.png">
-</div>
 
 The idea of the app was inspired by the professor to give us ideas for a project topic. The app can be opened on computer or with mobile phones by using a web browser. The home page is a login or register screen where you type in a name and password and if you are a first time user, you would need to hit register to be able to login later on. Once logged in, you are able to hit the get my location button to determine your current location and you can also check in to time stamp when you last checked what your location was. 
 
