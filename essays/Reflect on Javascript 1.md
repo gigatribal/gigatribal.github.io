@@ -8,8 +8,8 @@ labels:
   - Learning
 ---
 
-How’s Javascript?
-<hr>
+**How’s Javascript?**
+
 Javascript is an entirely new programming language to me. Compared to Java and C/C++, it looks like it closely resembles C/C++ more which I used for a course in last fall. I am unsure if it’s a good programming language for software engineering due to I have no prior knowledge to what it is like. I do have concerns with some aspects of Javascript though. For example, I did a practice tutorial for Javascript and even though I completed it, there were things I heard after taking the tutorial which confuses me a little bit. Things include putting “var” before you name your variables is incorrect and should be using “let” instead. I have tried using both in the same use and do not see much difference at the moment.
 <hr>
 Athletic Software Engineering reflection (WODs)
