@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS212 part 1.png
+image: images/Phonebook.png
 title: Phonebook
 permalink: projects/Phonebook
 date: 2015
