@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/app logo.png
+image: images/app logo.jpg
 title: Geocache Legislator Check-in App
 permalink: projects/Geocache Legislator Check-in App
 date: 2016
