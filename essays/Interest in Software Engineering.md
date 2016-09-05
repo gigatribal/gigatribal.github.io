@@ -8,15 +8,22 @@ labels:
   - Learning
 ---
 
+**Why Software Engineering**
+
 When I played my first video game, I wanted to learn how to design them so that I could make my 
 own kind of video games. As I grew up and learned more types of gaming, I want to try make one that 
 has many types of gaming into one. Growing up however, I came to realize that such a process would be 
-very complex as I later discovered programming languages exist.
+very complex as I later discovered programming languages exist. I believe learning software engineering 
+is the first step to video game designing.
+
+**What I hope do to later**
 
 Since I like to draw, I hope I can do both design the game and create the characters and places for the 
 gameplay. Ever since I was little, I liked the idea of combing different things that came from different 
 places into one world or universe. I do think my drawings are not good enough at my current level but maybe 
 later on as I keep practicing that they will look great to be used.
+
+**What experiences I hope to develop**
 
 I am hoping software engineering will help me learn aspects of what it takes to develop video games or 
 applications for mobile devices. Aside from having to take the course by force now, I am hoping that 
