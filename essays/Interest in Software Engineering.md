@@ -20,8 +20,9 @@ is the first step to video game designing.
 
 Since I like to draw, I hope I can do both design the game and create the characters and places for the 
 gameplay. Ever since I was little, I liked the idea of combing different things that came from different 
-places into one world or universe. I do think my drawings are not good enough at my current level but maybe 
-later on as I keep practicing that they will look great to be used.
+places into one world or universe. I have created characters since elementary year and as years passed I have
+always kept drawing them and see that I have improved over the years. However, I do think my drawings are not 
+good enough at my current level but maybe later on as I keep practicing that they will look great to be used.
 
 **What experiences I hope to develop**
 
