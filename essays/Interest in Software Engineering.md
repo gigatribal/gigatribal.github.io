@@ -13,7 +13,7 @@ labels:
 When I played my first video game, I wanted to learn how to design them so that I could make my 
 own kind of video games. As I grew up and learned more types of gaming, I want to try make one that 
 has many types of gaming into one. Growing up however, I came to realize that such a process would be 
-very complex as I later discovered programming languages exist. I believe learning software engineering 
+very complex as I later discovered programming languages existed. I believe learning software engineering 
 is the first step to video game designing.
 
 **What I hope do to later**
