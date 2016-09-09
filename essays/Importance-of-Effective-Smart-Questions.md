@@ -27,7 +27,7 @@ Asking questions should be a type of question that is not wasting everyone’s t
 that you can google that or it is very vague and cannot help because not enough information is given. In terms of time 
 effectiveness, a minute spent on reading some dumb question is better spent elsewhere like continuing your own work or just 
 stand up and quick stretch. For example, there is a post with the topic that is a duplicate recently What is the difference 
-between a normal compiler error and a fatal compiler error? (insert link here) where to me it feels like instead of asking 
+between a normal compiler error and a fatal compiler error? <a href="http://pahke.com/index.html"> here</a>. where to me it feels like instead of asking 
 they should have just researched it themselves because by now there should be answers to this type of question already. I 
 feel this is not a smart question because they did not take the steps to research before asking a question and the question 
 is so simple that the person should have just googled it would have found it.
