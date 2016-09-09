@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-Importance of Effective Smart Questions
+**Importance of Effective Smart Questions**
 
 Every programmer has those moments where they are stuck on something and seek some guidance for their problem. Some succeed on 
 finding what their query is online by google or some web browser forums. Others unfortunately may not be so lucky and are unable to find a solution to their problem. Therefore, some resort to posting a question about their problem and await for an answer to bring them salvation. However, is their topic post formatted in a “smart” way to get effective help? It is important to because it will most likely lead to a path that will have a solution to your problem as an end result. If everyone could do that, forum response would be more effective to posted questions.
