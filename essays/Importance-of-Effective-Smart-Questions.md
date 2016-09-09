@@ -41,7 +41,7 @@ addition, this person did not reply with a thank you for the people who took the
 **What a smart question should be like**
 
 As mentioned, a smart question should have certain aspects that makes it worth the time for someone to look at. For example, 
-the topic How to improve an if/else function in a jQuery game? (insert link here) shows that the person has shown work to prove
+the topic <a href="http://stackoverflow.com/questions/39321107/how-to-improve-an-if-else-function-in-a-jquery-game"> How to improve an if/else function in a jQuery game?</a> shows that the person has shown work to prove
 that they did put effort in their time and not just ask for the answer. It was short and a simple question to ask on how to 
 make the code better. It is sort not so smart of a question because a reply made it sound like it should have been posted in
 a different forum topic. The responses were indeed effective as well despite that one reply. They gave guidance what could 
