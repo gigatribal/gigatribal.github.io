@@ -19,9 +19,7 @@ and can update it whenever the developers want to.
 **Now I know. I Lucked Out?**
 
 Fortunately, I have not had the experience to run into a problem from the lack of knowing how to use configuration management 
-for software engineering. I have never worked on something so big that would be easier to do by using something like configuration
-management. Perhaps it is unfortunate since I do not know how helpful it is to have such methods available. However, now that I do 
-know about it, I will remember about them should I ever start working on something that having that would be helpful.
+for software engineering. I have never worked on something so big that would be easier to do by using something like configuration management. Perhaps it is unfortunate since I do not know how helpful it is to have such methods available. However now that I do know about it, I will remember about them should I ever start working on something that having that would be helpful.
 
 **Whom made what better?**
 
