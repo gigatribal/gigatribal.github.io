@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Javascript 1
+title: Javascript and WODs
 date: 2016-09-01
 labels:
   - Software Engineering
