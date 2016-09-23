@@ -22,8 +22,8 @@ Fortunately, I have not had the experience to run into a problem from the lack o
 for software engineering. I have never worked on something so big that would be easier to do by using something like configuration
 management nor thought one could work on their local computer and able to send it back to their online repository. Perhaps it is
 unfortunate since I do not know how helpful it is to have such methods available. However now that I do know about it, I will remember
- about them should I ever start working on something that having that would be helpful and in the future it will probably indeed help
- for video game designing.
+about them should I ever start working on something that having that would be helpful and in the future it will probably indeed help
+for video game designing.
 
 **Whom made the other better?**
 
