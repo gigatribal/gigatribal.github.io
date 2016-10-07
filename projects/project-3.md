@@ -7,6 +7,7 @@ permalink: projects/Pah Ke's Website
 date: 2015
 labels:
   - c-panel
+  - html
 summary: A website used for Pah Ke's Chinese Restaurant in Kaneohe near Windward Mall.
 ---
 
