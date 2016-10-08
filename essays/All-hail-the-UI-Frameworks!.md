@@ -7,6 +7,7 @@ labels:
   - Software Engineering
   - Learning
   - UI Frameworks
+  - Semantic UI
 ---
 
 **What is it?**
@@ -16,6 +17,12 @@ It has built in instruments that can be used to make your designs more neater an
 who designed this for other people to use and making website designs easier. Before we started the week of learning UI Frameworks, 
 I had no clue on how to make websites let alone using a tool to help make things easier. 
 
+It is a built in tool you can say that in a way to make designing websites easier so it is  less of a hassle. It is like you standing 
+on a chair to elevate yourself to clean some area you cannot reach on your own. You think to yourself, "Man, I wish there is some easier way
+to clean places I cannot reach!". However someone later on creates this tool where it is a long pole and attached on top is the duster 
+or wiper so you can clean higher elevated areas with ease. Semantic UI is the long pole tool where it is designed to help make things 
+easier for you when designing websites. 
+
 The first week there were no tools to help us design web sites. It was all manually coded instead where it was not hard to do but it was
 very time consuming. I had to go back and forth between two sections where one section was the code itself and the other page was a page
 where how I wanted my designs to be like. For example, designs may include the fonts of your words, or how large or small you want them, 
@@ -23,7 +30,7 @@ or even the color of the text or background. This was the result of my experienc
 <img class="ui image" src="../images/browserhistory.png">
 
 
-**I leveled up and learned a skill! Semantic UI**
+**I leveled up and learned a skill! Semantic UI discovered**
 
 After a week, I had grasped the basics of it by learning HTML and CSS to successfully do website designs. In the second week however, 
 learning Semantic UI is so much helpful. It is a built in tool you can say that in a way to make designing websites easier so it is 
