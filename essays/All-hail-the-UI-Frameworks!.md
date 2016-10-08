@@ -16,6 +16,13 @@ It has built in instruments that can be used to make your designs more neater an
 who designed this for other people to use and making website designs easier. Before we started the week of learning UI Frameworks, 
 I had no clue on how to make websites let alone using a tool to help make things easier. 
 
+The first week there were no tools to help us design web sites. It was all manually coded instead where it was not hard to do but it was
+very time consuming. I had to go back and forth between two sections where one section was the code itself and the other page was a page
+where how I wanted my designs to be like. For example, designs may include the fonts of your words, or how large or small you want them, 
+or even the color of the text or background. This was the result of my experience of a 100% manual code input for a website design.
+
+<img class="ui image" src="../images/browserhistory3.png">
+
 **I leveled up and learned a skill! Semantic UI**
 
 After a week, I had grasped the basics of it by learning HTML and CSS to successfully do website designs. In the second week however, 
