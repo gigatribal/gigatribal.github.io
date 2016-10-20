@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: All hail the UI Frameworks!
-date: 2016-10-16
+date: 2016-10-06
 labels:
   - Software Engineering
   - Learning
