@@ -23,7 +23,8 @@ started understanding it.
 Luckily before Meteor, I picked up on HTML and CSS style of coding for frameworks really quick and learned Semantic UI style easily as well. Meteor also 
 involved using HTML and CSS coding languages which I felt like that was not a problem. The only really difficult thing is that when referencing code from 
 other templates there were some misplaced lines that caused problems and took forever to figure out why and then feel stupid afterwards. For example, I had a 
-moment where I placed a button in a different line and did not know why the button would not work when I went to test it. 
+moment where I placed a button in a different line and did not know why the button would not work when I went to test it. I do feel like the HTML and CSS part
+of meteor was not as hard as I thought.
 
 <img class="ui image" src="../images/Digits-Home-Page.png">
 
