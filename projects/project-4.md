@@ -32,6 +32,7 @@ Though it was technically everyones job, I looked through to make sure that our 
 <li>implement being able to log in and making sure only logged in users can view the web app outside of the landing page
 <li>finding users to test our web app and summarize feedback</li>
 
+<br>
 **Looking back**
 
 I learned quite a few things from this experience but if I were to pick one thing, a big thing is that it was difficult to work in teams where everyone wants to push their code to the main branch on our github page. Sometimes someone pushing a change caused problems for other teammates and would take time to figure out what went wrong. That happened a lot in the early phase when our group was doing work and it was quite frustrating. Eventually we got things to work and when someone made changes to the main branch, the others would not have any problems and they could do the same. 
