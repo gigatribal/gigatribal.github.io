@@ -43,7 +43,7 @@ to not knowing javascript could be used like that.
 
 <img class="ui image" src="../images/add-contact-code.png">
 
-**Aftermath of being Meteors Impact**
+**Aftermath of Meteors Impact**
 
 I may still be dazed by its damage but I like Meteor. Being able to use this to make web pages and able to view and have it automatically refresh as well was pretty cool compared to when earlier I had to manually hit refresh every time when I want to see the current progress when I was prior to using Meteor. 
 
