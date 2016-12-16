@@ -26,11 +26,11 @@ summary: A web application from Fall 2016 to help University of Hawaii students 
 
 When I created the Logo for our web app, I tried to think of an aspect from being a college student myself. If I were a college student trying to conserve on money for food, I would probably buy cup ramen. The logo is suppose to represent that cup ramen isnt satisfying enough anymore and real food is needed to quell the rage of cravings.
 
-<p> Though it was technically everyones job, I looked through to make sure that our web application was accurate in terms of hours, prices, map location, etc. Aside from that and the logo, my contributions to the project were 
+Though it was technically everyones job, I looked through to make sure that our web application was accurate in terms of hours, prices, food category, and map location due to being such a large database, anyone could have made a typo. Aside from that and the logo, my contributions to the project were 
 <li>suggest a rating system</li>
 <li>gather database information needed for various vendor places that my group split up the locations</li>
 <li>being able to log in and making sure only logged in users can view the web app outside of the landing page
-<li>finding users to test our web app</li> </p>
+<li>finding users to test our web app</li><br>
 
 **Looking back**
 

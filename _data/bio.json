@@ -73,9 +73,12 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Microsoft Office",
         "Windows",
         "WordPress",
         "Git/GitHub",
+        "Chrome Developer Toolkit",
+        "Photoshop",
         "Galaxy",
         "IntelliJ"
       ]
