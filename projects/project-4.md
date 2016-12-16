@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MoarChow.png
+image: images/MoarChow.jpg
 title: MoarChow
 permalink: projects/MoarChow
 date: 2016
