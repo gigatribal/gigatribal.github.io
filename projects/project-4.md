@@ -27,6 +27,7 @@ Though it was technically everyones job, I looked through to make sure that our 
 <li>being able to log in and making sure only logged in users can view the web app outside of the landing page
 <li>finding users to test our web app</li>
 
+The feedback we got was quite constructive besides their comments on how great the app was.
 
 <img class="ui image" src="../images/MoarChow homepage.jpg">
 
