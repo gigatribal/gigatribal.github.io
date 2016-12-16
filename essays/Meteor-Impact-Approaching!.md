@@ -55,6 +55,6 @@ not the case! Unfortunately, my laptop runs Meteor at a slower pace than my desk
 
 **Revelation**
 
-Later on near the end of the semester for the class, I learned that you can hit a simple button to update your files locally if you are using different devices. Instead of what I was doing earlier, this is much simpler and less of a headache! I wish I knew that before hand and not spend about 3 minutes doing my old method where you delete it, download the remote to local, reinstall meteor stuff and continue my work! Such a life saver!
+Later on near the end of the semester for the class, I learned that you can hit a simple button to update your files locally if you are using different devices. In addition, if you do not have a branch that the other has, all you need to do is add that branch to that local device, hit the button and it will still work! Instead of what I was doing earlier, this is much simpler and less of a headache! I wish I knew that before hand and not spend about 3 minutes doing my old method where you delete it, download the remote to local, reinstall meteor stuff and continue my work! Such a life saver!
 
 <img class="ui image" src="../images/sync.png">
