@@ -62,14 +62,20 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Meteor",
+        "Semantic UI"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Git/GitHub"
+        "Windows",
+        "Git/GitHub",
+        "Galaxy",
       ]
     }
   ],
@@ -104,14 +110,14 @@
       "website": "",
       "startDate": "2012",
       "endDate": "2015",
-      "summary": "Entered restraurant buisness as a novice and learned/experienced it overtime",
+      "summary": "Entered restaurant business as a novice and learned/experienced it overtime",
       "highlights": [
         "After hours, help keep track of inventory",
         "Manage tip sheet reports",
         "Send out e-mails about specials or holiday speicals",
         "Manage facebook page, and instagram"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -126,10 +132,9 @@
         "Manage number of members and any new members",
         "Report volunteer activites to superiors"
       ]
-    },
+    }
   ],
-  "awards": [
-  ],
+
   "references": [
     {
       "name": "Available upon request",
