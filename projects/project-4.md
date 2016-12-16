@@ -16,15 +16,17 @@ summary: A web application from Fall 2016 to help University of Hawaii students 
 ---
 **Our Web Application**
 
+Near the end of the second half of Fall 2016, a class I took for Computer Science where we were grouped in teams to work on a web application project that was about three weeks long. My team created the web app called MoarChow, which is a food application where a student in the University of Hawaii can view both foodtruck and various food establishments across the Manoa campus. They are able to view their business hours and menu prices of their items, give a rating on the vendors, and also view a map in our application to see where each vendor is for guidance.
+
 <img class="ui image" src="../images/MoarChow homepage.jpg">
 
-<p> Near the end of the second half of Fall 2016, a class I took for Computer Science where we were grouped in teams to work on a web application project that was about three weeks long. My team created the web app called MoarChow, which is a food application where a student in the University of Hawaii can view both foodtruck and various food establishments across the Manoa campus. They are able to view their business hours and menu prices of their items, give a rating on the vendors, and also view a map in our application to see where each vendor is for guidance. </p>
+This allows users who wants to eat at the Manoa campus can see all the establishments and view their menu options. In addition, prices are shown in the menu which prevents any student who may realize too late when upon reaching to the establishment that they are low on cash. Users are also able to favorite their vendors to their own set list of vendors instead of having to search for the one they want in the list showing all of them at once as well as using the food category section to view which vendors sell what kind of food such as plate lunches, salads or smoothies.
 
 **Contribution**
 
 <img class="ui image" src="../images/need-real-food.png">
 
-When I created the Logo for our web app, I tried to think of an aspect from being a college student myself. If I were a college student trying to conserve on money for food, I would probably buy cup ramen. The logo is suppose to represent that cup ramen is not satisfying enough anymore and real food is needed to quell the rage of cravings.
+When I created the logo for our web app, I tried to think of an aspect from being a college student myself. If I were a college student trying to conserve on money for food, I would probably buy cup ramen but eventually there are times where you are want to change your food consumptions. The logo is suppose to represent that cup ramen is not satisfying enough anymore and real food is needed to quell the rage of cravings.
 
 Though it was technically everyones job, I looked through to make sure that our web application was accurate in terms of hours, prices, food category, and map location due to being such a large database, anyone could have made a typo. Aside from that and the logo, my contributions to the project were suggest a rating system, to help gather database information needed for various vendor places that my group split up the locations, implement being able to log in and making sure only logged in users can view the web app outside of the landing page, as well as finding users to test our web app and summarize feedback
 
