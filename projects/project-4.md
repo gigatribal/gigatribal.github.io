@@ -29,13 +29,13 @@ When I created the Logo for our web app, I tried to think of an aspect from bein
 Though it was technically everyones job, I looked through to make sure that our web application was accurate in terms of hours, prices, food category, and map location due to being such a large database, anyone could have made a typo. Aside from that and the logo, my contributions to the project were 
 <li>suggest a rating system</li>
 <li>gather database information needed for various vendor places that my group split up the locations</li>
-<li>being able to log in and making sure only logged in users can view the web app outside of the landing page
-<li>finding users to test our web app</li><br>
+<li>implement being able to log in and making sure only logged in users can view the web app outside of the landing page
+<li>finding users to test our web app and summarize feedback</li><br>
 
 **Looking back**
 
 I learned quite a few things from this experience but if I were to pick one thing, a big thing is that it was difficult to work in teams where everyone wants to push their code to the main branch on our github page. Sometimes someone pushing a change caused problems for other teammates and would take time to figure out what went wrong. That happened a lot in the early phase when our group was doing work and it was quite frustrating. Eventually we got things to work and when someone made changes to the main branch, the others would not have any problems and they could do the same. 
 
-I do not think I could have got our app to where it is now if I were to solo this by myself within three weeks.
+<br>I do not think I could have got our app to where it is now if I were to solo this by myself within three weeks.
 
-Click <a href="https://moarchow.github.io/">here</a> for more details on MoarChow.
+<br>Click <a href="https://moarchow.github.io/">here</a> for more details on MoarChow.
