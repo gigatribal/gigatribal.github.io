@@ -31,3 +31,9 @@ applications for mobile devices. Aside from having to take the course by force n
 the experiences I learn from this course will help me in the future to do what I want to do. That is to 
 design model characters to be used for game development and create mechanics for the games and hopefully 
 turn out to make a great game.
+
+**Experience VS Expectation**
+
+With the semester ending, I have no regrets in taking a software engineering class. What I learned in the class passed my expectations of the course. Though I have not used it for gaming design purposes yet, I have learned many tools that will help me do other things such as making web applications and built in functions for it. Thanks to this class, I was able to get my feet wet with a team project to make a <a href="http://moarchow.meteorapp.com/">web application</a> and get a taste as well for how it is like to work on a project with a team. Game designs will take a team to work on such a feat so I am glad I got to experience that.
+
+Source : <a href="https://moarchow.github.io/">MoarChow</a>
