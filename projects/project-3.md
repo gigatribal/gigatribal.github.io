@@ -17,4 +17,4 @@ Pah Ke's Chinese Restaurant use to be co-owned with my dad and his brother. The 
 
 Has details of how to contact us, where we are, and a list of our menu item and prices and other details. The website is slowly progressing due to other responsibilities as a student. Since my parents do not know how to do this kind of thing, they looked to me for help to have a website available for the business and other technological help. 
 
-Link to website : Pah Ke's Chinese Restaurant website <a href="http://pahke.com/index.html"> here</a>.
+Link to website : Pah Ke's Chinese Restaurant website <a href="http://pahke.com/index.html"><u>here</u></a>.

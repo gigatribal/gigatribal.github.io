@@ -34,7 +34,7 @@ I learned quite a few things from this experience but if I were to pick one thin
 
 I do not think I could have got our app to where it is now if I were to solo this by myself within three weeks.
 
-Click <a href="https://moarchow.github.io/">here</a> for more details on MoarChow.
+Click <a href="https://moarchow.github.io/"><u>here</u></a> for more details on MoarChow.
 
 **Side quest - Why MoarChow?**
 (skip this section if you wish)
