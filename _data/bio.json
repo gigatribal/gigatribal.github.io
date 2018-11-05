@@ -6,7 +6,7 @@
     "email": "wsiu4@hawaii.edu",
     "phone": "",
     "website": "https://williamycsiu.github.io",
-    "summary": "I am a student majoring in Computer Science at the University of Hawaii of Manoa.",
+    "summary": "I am a student majoring in Computer Science for my B.A at the University of Hawaii of Manoa.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -40,6 +40,11 @@
     },
     {
       "name": "video game design",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "web page design",
       "keywords": [
       ]
     },
@@ -86,13 +91,14 @@
         "Photoshop",
         "Galaxy",
         "IntelliJ"
+        "Unity Game Engine"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.A.",
       "startDate": "2011",
       "endDate": "Present",
@@ -111,7 +117,8 @@
       "summary": "Help managing restaurant with parents.",
       "highlights": [
         "Maintain, update, and oversee website",
-        "Manage e-mails for the business"
+        "Manage e-mails for the business",
+        "Help out on the floor at the restaurant"
       ]
     },
     {
