@@ -109,16 +109,29 @@
   ],
   "work": [
     {
+      "company": "Goodwill Hawaii Industries",
+      "position": "IT Technical Analyst",
+      "website": "http://pahke.com/index.html",
+      "startDate": "2019-09-23",
+      "endDate": "Present",
+      "summary": "Handle issue tickets & calls, hardware/laptop repair, deploy PCs & laptops, maintain updates on software/hardware, and others. ",
+      "highlights": [
+        "Resolve issues via tickets, calls or email",
+        "Repair or setup PCs and laptops",
+        "Maintain web forms and data collect from donations or sign ins and others"
+      ]
+    },
+    {
       "company": "Pah Ke's Chinese Restaurant",
       "position": "Manager",
       "website": "http://pahke.com/index.html",
       "startDate": "2015-10-01",
-      "endDate": "Present",
+      "endDate": "2019-09-1",
       "summary": "Help managing restaurant with parents.",
       "highlights": [
         "Maintain, update, and oversee website",
         "Manage e-mails for the business",
-        "Help out on the floor at the restaurant"
+        "Waiter/Host responsibilities"
       ]
     },
     {
